@@ -54,5 +54,3 @@ if __name__ == "__main__":
 
     print("Press any key to close")
     input()
-
-# исключения файлов, многопоточность, tqdm
